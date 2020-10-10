@@ -1,1 +1,3 @@
-Admin Login email : lmathngadeera@gmail.com    pw:eT@iXr-5Vxir4!@
+Admin Login 
+email : lmathngadeera@gmail.com    
+password:eT@iXr-5Vxir4!@
